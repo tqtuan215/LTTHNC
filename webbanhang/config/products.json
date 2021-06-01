@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "5fccca0b5ac7220004bad636"
+  },
+  "image": "1615359654902-header2.jpg",
+  "name": "Ghế Sofa",
+  "cateID": "5fc3e8ed9f343d0004f265fd",
+  "quantity": "100",
+  "note": "Bền, đẹp, chất lượng tốt",
+  "price": "20000000",
+  "date": {
+    "$date": "2021-03-10T07:00:55.708Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd00948eaad740004e615db"
+  },
+  "image": "1615359665544-header3.jpg",
+  "name": "Ghế văn phòng",
+  "cateID": "5fc3830fb127790638caf242",
+  "quantity": "2",
+  "note": "Đẹp tự nhiên từ trong ra ngoài",
+  "price": "6600000",
+  "date": {
+    "$date": "2021-03-10T07:01:06.660Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048705b3616dc0004ef5404"
+  },
+  "image": "1615360091418-signup-image.jpg",
+  "name": "hàng mới",
+  "cateID": "5fc3e8ed9f343d0004f265fd",
+  "quantity": "100",
+  "note": "đẹp",
+  "price": "20000",
+  "date": {
+    "$date": "2021-03-10T07:08:11.437Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6052f5c6470b150004ea181e"
+  },
+  "image": "1618393239889-about_Shopping.jpg",
+  "name": "Tuan",
+  "cateID": "5fc3e8ed9f343d0004f265fd",
+  "quantity": "22",
+  "note": "h",
+  "price": "200000000000000000000",
+  "date": {
+    "$date": "2021-04-14T09:40:40.123Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6076b872e68b3500042b08e0"
+  },
+  "image": "1618393202285-signin-image.jpg",
+  "name": "hgvjh",
+  "cateID": "5fc3e8ed9f343d0004f265fd",
+  "quantity": "100",
+  "note": "Bền, đẹp, chất lượng tốt",
+  "price": "100000",
+  "date": {
+    "$date": "2021-04-14T09:40:02.289Z"
+  },
+  "__v": 0
+}]

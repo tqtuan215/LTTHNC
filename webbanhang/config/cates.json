@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "5fc3830fb127790638caf242"
+  },
+  "namecate": "Bàn ghế gỗ"
+},{
+  "_id": {
+    "$oid": "5fc3e8ed9f343d0004f265fd"
+  },
+  "namecate": "Sofa",
+  "__v": 0
+}]

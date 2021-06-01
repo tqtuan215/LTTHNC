@@ -1,0 +1,201 @@
+[{
+  "_id": {
+    "$oid": "5fc3e609f42f460004911b53"
+  },
+  "email": "client@gmail.com",
+  "password": "$2a$05$iAxDanowRhJdVcsorTXscerurajl2lwbPtTiopwytV6BaFd4YYIQ2",
+  "name": "Nam",
+  "role": "user",
+  "lock": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc3e8119f343d0004f265fb"
+  },
+  "email": "admin@gmail.com",
+  "password": "$2y$12$/Lz9RRVv8pF3pcAWDCkFJeP9.Auzm1ZDJtCRHMx.2vZcJOdTqYgYq",
+  "name": "Sơn Nguyễn",
+  "role": "admin",
+  "lock": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc46dbd411f4d0004970b6b"
+  },
+  "email": "thieu7100@gmail.com",
+  "password": "a$2a$05$V2ocUTeVafZZ3Q0U5JQAIeyTS/1zqkLuNfnnGBMjuXzfhTDs.AbSC",
+  "name": "truong the hieu",
+  "role": "user",
+  "lock": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc4ce7010e9ef0004a17cac"
+  },
+  "email": "tai@gmail.com",
+  "password": "$2a$05$Zs4co/07Y8BVo8UVIQvWEO9tJ4BCtjqC2q0DzrUwofE93ZzXyZAcu",
+  "name": "taitien",
+  "role": "user",
+  "lock": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc4f880ecf63f00047e9318"
+  },
+  "email": "phanduyhieu112@gmail.com",
+  "password": "$2a$05$4/xhjEBT1/TaqccS/T7yPemzSc4J2E.EBiJdvHE6lhySkBthz2WGq",
+  "name": "phanduyhieu",
+  "role": "user",
+  "lock": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcef69fd80d4b00046fc283"
+  },
+  "email": "buihuythanh33@gmail.com",
+  "password": "$2a$05$LgDVqjoeKEeFtTsj76VUZONk22HBqMGihBftGNr1vd.2.TIynwzqG",
+  "name": "Buihuythanh",
+  "role": "user",
+  "lock": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd7471a331f9f0004ad3d22"
+  },
+  "email": "hello@gmail.com",
+  "password": "$2a$05$GqiaogeDLBvkYhMSYwmDyOYAp2xoSFv0o4XokdPBJaSOOOeD3cymK",
+  "name": "123",
+  "role": "user",
+  "lock": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fdb751145813a00049c4d63"
+  },
+  "email": "1513036@hcmut.edu.vn",
+  "password": "$2a$05$V1ppMuFGbnnnf5K2ILnF8eRBbzEU67.hxTLdJiyidfGi1t.XLo1Fm",
+  "name": "thanh bui",
+  "role": "user",
+  "lock": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60046811b1dc2100044bdd81"
+  },
+  "email": "leviettung2000@gmail.com",
+  "password": "$2a$05$LTxapw3Dzu8/H9Z8Md/xK.Ww4TEcah3msz/E7HVdcO85B3H6Tq39.",
+  "name": "Tung Le Viet",
+  "role": "user",
+  "lock": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600aa7d14e1d060004545423"
+  },
+  "email": "tung@tsbmedia.com",
+  "password": "$2a$05$3KK88UFDJVvxeeXnMhcc1.bWcRCn/Mvsya1T3W4kx5qyQ3nkU/G1u",
+  "name": "Tùng béo",
+  "role": "user",
+  "lock": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c24b48ffb880004a8f01a"
+  },
+  "email": "abc@gmail.com",
+  "password": "$2a$05$klSfyCP200qNXtBxZmVFSO589WpQ7H7OdonuOmj8sH1ncDiXk1x4S",
+  "name": "a",
+  "role": "user",
+  "lock": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c64d38ffb880004a8f01b"
+  },
+  "email": "sssss@gmail.com",
+  "password": "$2a$05$wImAMySDM.77Y1osdwH/JOxWpyYVmG6GPD.km86zx2mw7yTzt6QLi",
+  "name": "abc123",
+  "role": "user",
+  "lock": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600dadf56ad0b80004061e07"
+  },
+  "email": "dinhtuan11345@gmail.com",
+  "password": "$2a$05$2mQPJCAGrOtgrKXXon8PReAW9W9NP3.0ldcjc8m22JAzya/Al2..C",
+  "name": "Tuan Dinh",
+  "role": "user",
+  "lock": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600e5384c8f97a0004ba436b"
+  },
+  "email": "lequangdatpc66@gmail.com",
+  "password": "$2a$05$UypJsJCwwZtYGaY4UofXBehTTEKexZedtPnz0vVq3AvWCLcsc1n/y",
+  "name": "Lê Quang Đạt",
+  "role": "user",
+  "lock": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603499d192ad8400048fdcef"
+  },
+  "email": "ngocfqph10317@fpt.edu.vn",
+  "password": "$2a$05$OnFVl7DqUAmpcZmGbBHDde4ZdTUSHp5rJq4vTNYFGP5qJ.ZUHv20u",
+  "name": "ff",
+  "role": "user",
+  "lock": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048701b3616dc0004ef5403"
+  },
+  "email": "a@gmail.com",
+  "password": "$2a$05$045eQHa6nPoIz.KxUBLlDu6.KcqKmj2sV5fuxXCjI0YvU3Ang0VUi",
+  "name": "sơn",
+  "role": "user",
+  "lock": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6076b8cae68b3500042b08e1"
+  },
+  "email": "qq@gmail.com",
+  "password": "$2a$05$OrP5xuI415nYqyN/Pn/HCex6jr3JeBuqJoZveTrTgBQhD0720WXqy",
+  "name": "Sơn Nguyễn",
+  "role": "user",
+  "lock": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607e6661f2addd0004dae3ac"
+  },
+  "email": "Nhattien@gmail.com",
+  "password": "$2a$05$X4VokobVQ4qVnLsF464RyeVACPx.nWUxAFRtKJLkS0ZKSAknvzH2q",
+  "name": "Tien",
+  "role": "user",
+  "lock": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607e8f3d286a8d000431a6c4"
+  },
+  "email": "hung.nguyenmanh82@gmail.com",
+  "password": "$2a$05$Q2IqGeFH0kclvblWrty/zuKIOUrd.2NUfZo1/vw21tuglXhWP7CB.",
+  "name": "hung nguyenmanh",
+  "role": "user",
+  "lock": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608689bce8546e2a4cd8a289"
+  },
+  "email": "ttt@gg.com",
+  "password": "$2a$05$mGzbF2SIJmK9SE723FXtweM6VJ5ZsmDA4IHDBgeHikaTE0ki465hO",
+  "name": "tqt",
+  "role": "user",
+  "lock": 0,
+  "__v": 0
+}]
