@@ -1,2 +1,1 @@
-# LTTHNC
-nodejs
+start: "app.js"
